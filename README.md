@@ -4,7 +4,7 @@
 For Windows 10
 
 1. Install R (Don't install to "Program files" on windows 10.)
-2. On R Console, run above command that install "kntnr" pacckage.
+2. On R Console, run above command that install "kntnr" package.
   > install.packages("kntnr")
 3. Close R console.
 4. Set Environment Variable on system configure.  
