@@ -11,7 +11,7 @@ For Windows 10
 * KNTN_URL = subdomain/cybozu.com
 * KNTN_AUTH_TYPE = password or token
 * KNTN_AUTH = username:password(Base64 encoded) or API Token of kintone app.
-5. Edit appnumber in R script and some options.
+5. Edit appnumber R script L2 and some options.
 6. Run!
 
 References: 
